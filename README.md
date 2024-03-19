@@ -6,3 +6,5 @@
 
 ### components required are : Ultrasonic sensor, 16x2 LCD display, I2C module, DHT11 sensor, BMP180 sensor,  MAX30102 Heartrate sensor, MLX90614 Infrared temperature sensor
 
+### cicruit diagram
+![Picture1](https://github.com/AlexBandlamudi/Patient-Health-and-Environment-Monitoring-System/assets/111354340/eb535b51-51af-4b11-8ab8-2287fc907171)
